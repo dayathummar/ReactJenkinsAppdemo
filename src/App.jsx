@@ -2,7 +2,7 @@ function App() {
 
   return (
     <div>
-      <h1>Welcome to React Jenkins CI/CD</h1>
+     <h1>My React Application with Jenkins</h1>
 
       <h2>My First React Application</h2>
 
